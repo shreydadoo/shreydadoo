@@ -1,5 +1,13 @@
 # 💫 About Me:
-daf
+As a recent Computer Engineering graduate from the University of Toronto with minors in AI and Engineering Business, I’ve developed scalable, data-driven solutions at the intersection of software engineering, machine learning, and education technology.
+
+During my time at Wattpad, I worked on backend systems and data pipelines using AWS (S3, Glue, Redshift), Airflow, and Python to deliver insights to millions of users. I’ve also led the development of ScholarSpace AI—a tutoring platform powered by LLMs—reducing tutor intervention by 40%.
+
+I’m actively seeking full-time opportunities in software or data engineering roles where I can continue building impactful products.
+
+Core Skills: Python, SQL, React, TypeScript, AWS, Airflow, Spark, LLMs, Data Pipelines, AI Systems
+
+Feel free to connect or reach out: shreydadoo@gmail.com
 
 
 ## 🌐 Socials:
